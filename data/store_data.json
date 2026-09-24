@@ -1,0 +1,442 @@
+{
+  "products": [
+    {
+      "id": "prod-001",
+      "name": "ເຊຣັ່ມບຳລຸງຜິວໜ້າ Rose Glow Radiance Serum",
+      "category": "ບຳລຸງຜິວ",
+      "price": 185000,
+      "costPrice": 115000,
+      "originalPrice": 240000,
+      "description": "ເຊຣັ່ມສານສະກັດຈາກດອກກຸຫຼາບ ແລະ Niacinamide ຊ່ວຍໃຫ້ຜິວກະຈ່າງໃສ ຊຸ່ມຊື່ນ ຫຼຸດຮອຍດ່າງດຳ ແລະ ກະຊັບຮູຂຸມຂົນ ສູດອ່ອນໂຍນເໝາະກັບທຸກສະພາບຜິວ.",
+      "images": [
+        "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1608248597359-5936d538ff09?auto=format&fit=crop&w=800&q=80"
+      ],
+      "options": [
+        {
+          "name": "ປະລິມານ",
+          "values": [
+            "30ml (ຂວດມາດຕະຖານ)",
+            "50ml (ຂະໜາດສຸດຄຸ້ມ)"
+          ]
+        },
+        {
+          "name": "ສູດບຳລຸງ",
+          "values": [
+            "ສູດ Brightening (ຜິວຂາວໃສ)",
+            "ສູດ Hydration (ເພີ່ມຄວາມຊຸ່ມຊື່ນ)"
+          ]
+        }
+      ],
+      "stock": 18,
+      "lowStockThreshold": 5,
+      "salesCount": 42,
+      "isPromo": true
+    },
+    {
+      "id": "prod-002",
+      "name": "ລິບສະຕິກເນື້ອແປ້ງ Soft Velvet Mousse Lip",
+      "category": "ເຄື່ອງສຳອາງ",
+      "price": 95000,
+      "costPrice": 55000,
+      "originalPrice": 125000,
+      "description": "ລິບມູສເນື້ອແປ້ງນຸ້ມລະມຸນ ບາງເບົາສະບາຍປາກ ຕິດທົນນານຕະຫຼອດມື້ ໂທນສີຫວານລະມຸນ ໃຫ້ລຸກທີ່ເປັນທຳມະຊາດແບບສາວເກົາຫຼີ.",
+      "images": [
+        "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80"
+      ],
+      "options": [
+        {
+          "name": "ເບີສີ",
+          "values": [
+            "#01 Rose Pink (ຊົມພູກຸຫຼາບ)",
+            "#02 Soft Peach (ພີຊລະມຸນ)",
+            "#03 Cherry Blossom (ຊາກຸຣະ)"
+          ]
+        }
+      ],
+      "stock": 4,
+      "lowStockThreshold": 5,
+      "salesCount": 68,
+      "isPromo": true
+    },
+    {
+      "id": "prod-003",
+      "name": "ຄຣີມກັນແດດເນື້ອໂລຊັ່ນ Pink Sunscreen SPF50+ PA++++",
+      "category": "ບຳລຸງຜິວ",
+      "price": 145000,
+      "costPrice": 90000,
+      "originalPrice": 180000,
+      "description": "ຄຣີມກັນແດດສູດບາງເບົາ ປັບສີຜິວໃຫ້ກະຈ່າງໃສຂຶ້ນ 1 ລະດັບ ບໍ່ໜຽວໜຽະ ຄວບຄຸມຄວາມມັນ ກັນນ້ຳກັນເຫື່ອ ປົກປ້ອງຜິວຈາກແສງແດດ UVA/UVB.",
+      "images": [
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=800&q=80"
+      ],
+      "options": [
+        {
+          "name": "ຂະໜາດ",
+          "values": [
+            "40ml",
+            "60ml"
+          ]
+        }
+      ],
+      "stock": 22,
+      "lowStockThreshold": 5,
+      "salesCount": 35,
+      "isPromo": true
+    },
+    {
+      "id": "prod-004",
+      "name": "ກະເປົາສະພາຍຂ້າງ Pastel Mini Tote Bag",
+      "category": "ກະເປົາ & ອຸປະກອນ",
+      "price": 260000,
+      "costPrice": 165000,
+      "originalPrice": 320000,
+      "description": "ກະເປົາສະພາຍໜັງພຣີມຽມສັງເຄາະ ນ້ຳໜັກເບົາ ທົນທານ ດີໄຊន៍ໜ້າຮັກໂທນສີພັສເທວ ຈຸເຄື່ອງໄດ້ຫຼາຍ ເໝາະກັບການໄປທ່ຽວ ແລະ ເຮັດວຽກ.",
+      "images": [
+        "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=80"
+      ],
+      "options": [
+        {
+          "name": "ສີກະເປົາ",
+          "values": [
+            "Soft Pink (ຊົມພູອ່ອນ)",
+            "Cloud White (ຂາວ)",
+            "Lilac Cream (ມ່ວງພັສເທວ)"
+          ]
+        },
+        {
+          "name": "ຂະໜາດ",
+          "values": [
+            "Mini (20cm)",
+            "Regular (26cm)"
+          ]
+        }
+      ],
+      "stock": 3,
+      "lowStockThreshold": 5,
+      "salesCount": 19,
+      "isPromo": true
+    },
+    {
+      "id": "prod-005",
+      "name": "ເສື້ອກັນໜາວຄາດິແກນ Soft Knit Pastel Cardigan",
+      "category": "ເສື້ອຜ້າແຟຊັ່ນ",
+      "price": 195000,
+      "costPrice": 120000,
+      "originalPrice": 250000,
+      "description": "ເສື້ອຄາດິແກນໄໝພົມເນື້ອລະອຽດ ນຸ້ມນວນໃສ່ສະບາຍ ບໍ່ຮ້ອນອົບອ້າວ ດີໄຊໂທນສີຫວານລະມຸນ ແມັດຊ໌ງ່າຍກັບທຸກຊຸດ.",
+      "images": [
+        "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80"
+      ],
+      "options": [
+        {
+          "name": "ຂະໜາດໄຊສ໌",
+          "values": [
+            "Free Size (S - L)",
+            "Plus Size (XL - 2XL)"
+          ]
+        },
+        {
+          "name": "ສີ",
+          "values": [
+            "Baby Pink (ຊົມພູຫວານ)",
+            "Beige Cream (ຄຣີມ)",
+            "Pastel Green (ຂຽວອ່ອນ)"
+          ]
+        }
+      ],
+      "stock": 12,
+      "lowStockThreshold": 5,
+      "salesCount": 28,
+      "isPromo": false
+    },
+    {
+      "id": "prod-006",
+      "name": "ນ້ຳຫອມ Floral Blossom Eau De Parfum",
+      "category": "ເຄື່ອງສຳອາງ",
+      "price": 320000,
+      "costPrice": 190000,
+      "originalPrice": 390000,
+      "description": "ນ້ຳຫອມກິ່ນດອກໄມ້ນານາພັນ ໃຫ້ຄວາມຮູ້ສຶກສົດຊື່ນ ຫວານລະມຸນ ມີສະເໜ່ ຕິດທົນນານຫຼາຍກວ່າ 12 ຊົ່ວໂມງ ຕຸກແກ້ວຫລູຫລາ.",
+      "images": [
+        "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=800&q=80"
+      ],
+      "options": [
+        {
+          "name": "ຂະໜາດບັນຈຸ",
+          "values": [
+            "50ml",
+            "100ml (+₭80,000)"
+          ]
+        }
+      ],
+      "stock": 15,
+      "lowStockThreshold": 5,
+      "salesCount": 51,
+      "isPromo": true
+    },
+    {
+      "id": "prod-007",
+      "name": "ແປ້ງພັບຄຸມມັນ Pink Mineral Cushion SPF40",
+      "category": "ເຄື່ອງສຳອາງ",
+      "price": 135000,
+      "costPrice": 80000,
+      "originalPrice": 170000,
+      "description": "ຄູຊັ່ນເນື້ອແມັດ ປົກປິດຮອຍສິວ ແລະ ຈຸດດ່າງດຳຢ່າງລຽບນຽນ ຄວບຄຸມຄວາມມັນຍາວນານ ບໍ່ຕົກຮ່ອງ ພ້ອມຕະລັບໂທນຊົມພູສຸດໜ້າຮັກ.",
+      "images": [
+        "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=800&q=80"
+      ],
+      "options": [
+        {
+          "name": "ເບີສີຜິວ",
+          "values": [
+            "No.21 (ຜິວຂາວ)",
+            "No.23 (ຜິວສອງສີ)"
+          ]
+        }
+      ],
+      "stock": 2,
+      "lowStockThreshold": 5,
+      "salesCount": 39,
+      "isPromo": true
+    },
+    {
+      "id": "prod-008",
+      "name": "ໂລຊັ່ນບຳລຸງຜິວກາຍ Sweet Berry Body Milk",
+      "category": "ບຳລຸງຜິວ",
+      "price": 110000,
+      "costPrice": 65000,
+      "originalPrice": 140000,
+      "description": "ໂລຊັ່ນນ້ຳນົມບຳລຸງຜິວກາຍ ກິ່ນເບີຣີ່ຫວານສົດຊື່ນ ຊຶມໄວ ບໍ່ໜຽວ ຊ່ວຍໃຫ້ຜິວນຸ້ມຊຸ່ມຊື່ນ ແລະ ມີກິ່ນຫອມຕິດກາຍຕະຫຼອດມື້.",
+      "images": [
+        "https://images.unsplash.com/photo-1608248597359-5936d538ff09?auto=format&fit=crop&w=800&q=80"
+      ],
+      "options": [
+        {
+          "name": "ປະລິມານ",
+          "values": [
+            "250ml",
+            "500ml"
+          ]
+        }
+      ],
+      "stock": 25,
+      "lowStockThreshold": 5,
+      "salesCount": 16,
+      "isPromo": false
+    }
+  ],
+  "categories": [
+    "ບຳລຸງຜິວ",
+    "ເຄື່ອງສຳອາງ",
+    "ເສື້ອຜ້າແຟຊັ່ນ",
+    "ກະເປົາ & ອຸປະກອນ"
+  ],
+  "orders": [
+    {
+      "id": "NY-2026-9041",
+      "customerName": "ມະນີວັນ ວົງສະຫວັນ",
+      "customerPhone": "02055123456",
+      "address": "ບ້ານ ໂພນສະຫວ່າງ, ເມືອງ ຈັນທະບູລີ",
+      "province": "ນະຄອນຫຼວງວຽງຈັນ",
+      "district": "ຈັນທະບູລີ",
+      "shippingProvider": "Anusith",
+      "trackingNumber": "ANU-LA-9874125",
+      "items": [
+        {
+          "id": "ci-1",
+          "productId": "prod-001",
+          "product": {
+            "id": "prod-001",
+            "name": "ເຊຣັ່ມບຳລຸງຜິວໜ້າ Rose Glow Radiance Serum",
+            "category": "ບຳລຸງຜິວ",
+            "price": 185000,
+            "costPrice": 115000,
+            "originalPrice": 240000,
+            "description": "ເຊຣັ່ມສານສະກັດຈາກດອກກຸຫຼາບ ແລະ Niacinamide ຊ່ວຍໃຫ້ຜິວກະຈ່າງໃສ ຊຸ່ມຊື່ນ ຫຼຸດຮອຍດ່າງດຳ ແລະ ກະຊັບຮູຂຸມຂົນ ສູດອ່ອນໂຍນເໝາະກັບທຸກສະພາບຜິວ.",
+            "images": [
+              "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=800&q=80",
+              "https://images.unsplash.com/photo-1608248597359-5936d538ff09?auto=format&fit=crop&w=800&q=80"
+            ],
+            "options": [
+              {
+                "name": "ປະລິມານ",
+                "values": [
+                  "30ml (ຂວດມາດຕະຖານ)",
+                  "50ml (ຂະໜາດສຸດຄຸ້ມ)"
+                ]
+              },
+              {
+                "name": "ສູດບຳລຸງ",
+                "values": [
+                  "ສູດ Brightening (ຜິວຂາວໃສ)",
+                  "ສູດ Hydration (ເພີ່ມຄວາມຊຸ່ມຊື່ນ)"
+                ]
+              }
+            ],
+            "stock": 18,
+            "lowStockThreshold": 5,
+            "salesCount": 42,
+            "isPromo": true
+          },
+          "selectedOptions": {
+            "ປະລິມານ": "30ml (ຂວດມາດຕະຖານ)"
+          },
+          "quantity": 1,
+          "price": 185000,
+          "costPrice": 115000
+        }
+      ],
+      "subtotal": 185000,
+      "shippingFee": 15000,
+      "total": 200000,
+      "paymentMethod": "BCEL_ONE",
+      "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=600&q=80",
+      "status": "shipped",
+      "createdAt": "2026-09-17 14:30",
+      "updatedAt": "2026-09-17 16:00",
+      "notes": "ສົ່ງຊ່ວງເຊົ້າຈະດີຫຼາຍ"
+    },
+    {
+      "id": "NY-2026-9042",
+      "customerName": "ສຸກສະຫວັນ ແກ້ວມະນີ",
+      "customerPhone": "02099887766",
+      "address": "ບ້ານ ໄຊສະຖານ, ເມືອງ ປາກເຊ",
+      "province": "ຈຳປາສັກ",
+      "district": "ປາກເຊ",
+      "shippingProvider": "Hal",
+      "trackingNumber": "HAL-PK-452109",
+      "items": [
+        {
+          "id": "ci-2",
+          "productId": "prod-002",
+          "product": {
+            "id": "prod-002",
+            "name": "ລິບສະຕິກເນື້ອແປ້ງ Soft Velvet Mousse Lip",
+            "category": "ເຄື່ອງສຳອາງ",
+            "price": 95000,
+            "costPrice": 55000,
+            "originalPrice": 125000,
+            "description": "ລິບມູສເນື້ອແປ້ງນຸ້ມລະມຸນ ບາງເບົາສະບາຍປາກ ຕິດທົນນານຕະຫຼອດມື້ ໂທນສີຫວານລະມຸນ ໃຫ້ລຸກທີ່ເປັນທຳມະຊາດແບບສາວເກົາຫຼີ.",
+            "images": [
+              "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=800&q=80",
+              "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=800&q=80"
+            ],
+            "options": [
+              {
+                "name": "ເບີສີ",
+                "values": [
+                  "#01 Rose Pink (ຊົມພູກຸຫຼາບ)",
+                  "#02 Soft Peach (ພີຊລະມຸນ)",
+                  "#03 Cherry Blossom (ຊາກຸຣະ)"
+                ]
+              }
+            ],
+            "stock": 4,
+            "lowStockThreshold": 5,
+            "salesCount": 68,
+            "isPromo": true
+          },
+          "selectedOptions": {
+            "ເບີສີ": "#01 Rose Pink (ຊົມພູກຸຫຼາບ)"
+          },
+          "quantity": 2,
+          "price": 95000,
+          "costPrice": 55000
+        }
+      ],
+      "subtotal": 190000,
+      "shippingFee": 18000,
+      "total": 208000,
+      "paymentMethod": "BCEL_ONE",
+      "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=600&q=80",
+      "status": "packing",
+      "createdAt": "2026-09-17 16:45",
+      "updatedAt": "2026-09-17 17:10"
+    },
+    {
+      "id": "NY-2026-9043",
+      "customerName": "ດາວອນ ໄຊຍະສິດ",
+      "customerPhone": "02077654321",
+      "address": "ບ້ານ ປ່າຂາມ, ເມືອງ ຫຼວງພະບາງ",
+      "province": "ຫຼວງພະບາງ",
+      "district": "ຫຼວງພະບາງ",
+      "shippingProvider": "Mixay",
+      "items": [
+        {
+          "id": "ci-3",
+          "productId": "prod-004",
+          "product": {
+            "id": "prod-004",
+            "name": "ກະເປົາສະພາຍຂ້າງ Pastel Mini Tote Bag",
+            "category": "ກະເປົາ & ອຸປະກອນ",
+            "price": 260000,
+            "costPrice": 165000,
+            "originalPrice": 320000,
+            "description": "ກະເປົາສະພາຍໜັງພຣີມຽມສັງເຄາະ ນ້ຳໜັກເບົາ ທົນທານ ດີໄຊន៍ໜ້າຮັກໂທນສີພັສເທວ ຈຸເຄື່ອງໄດ້ຫຼາຍ ເໝາະກັບການໄປທ່ຽວ ແລະ ເຮັດວຽກ.",
+            "images": [
+              "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=800&q=80",
+              "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=800&q=80"
+            ],
+            "options": [
+              {
+                "name": "ສີກະເປົາ",
+                "values": [
+                  "Soft Pink (ຊົມພູອ່ອນ)",
+                  "Cloud White (ຂາວ)",
+                  "Lilac Cream (ມ່ວງພັສເທວ)"
+                ]
+              },
+              {
+                "name": "ຂະໜາດ",
+                "values": [
+                  "Mini (20cm)",
+                  "Regular (26cm)"
+                ]
+              }
+            ],
+            "stock": 3,
+            "lowStockThreshold": 5,
+            "salesCount": 19,
+            "isPromo": true
+          },
+          "selectedOptions": {
+            "ສີກະເປົາ": "Soft Pink (ຊົມພູອ່ອນ)",
+            "ຂະໜາດ": "Mini (20cm)"
+          },
+          "quantity": 1,
+          "price": 260000,
+          "costPrice": 165000
+        }
+      ],
+      "subtotal": 260000,
+      "shippingFee": 15000,
+      "total": 275000,
+      "paymentMethod": "BCEL_ONE",
+      "paymentSlipUrl": "https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?auto=format&fit=crop&w=600&q=80",
+      "status": "paid",
+      "createdAt": "2026-09-17 19:20",
+      "updatedAt": "2026-09-17 19:25"
+    }
+  ],
+  "settings": {
+    "storeName": "NY Beauty SHop",
+    "storePhone": "020 2803 9599",
+    "whatsappNumber": "8562028039599",
+    "facebookPageName": "NY Beauty SHop",
+    "facebookUrl": "https://www.facebook.com/share/1B59iN8jJG/?mibextid=wwXIfr",
+    "bcelAccountName": "NY BEAUTY SHOP (Phoutthasone Chittavoravong MS)",
+    "bcelAccountNumber": "010-12-00-01114167-001",
+    "bcelQrImage": "/bcel-qr.jpg",
+    "shippingRates": {
+      "Anusith": 0,
+      "Hal": 0,
+      "Mixay": 0
+    }
+  }
+}

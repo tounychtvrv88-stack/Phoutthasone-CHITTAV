@@ -1,0 +1,6 @@
+{
+  "name": "Ny Store - ຮ້ານຄ້າອອນລາຍ",
+  "description": "Ny Store ຮ້ານຄ້າອອນລາຍພາສາລາວ ໂທນສີຊົມພູອ່ອນ ຊື້-ຂາຍງ່າຍ ຊຳລະຜ່ານ BCEL One ພ້ອມລະບົບຕິດຕາມພັດສະດຸ ແລະ ລະບົບຫຼັງບ້ານຄົບວົງຈອນ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
