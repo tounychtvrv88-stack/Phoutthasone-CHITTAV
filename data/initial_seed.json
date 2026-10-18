@@ -1,0 +1,25 @@
+{
+  "products": [],
+  "categories": [
+    "ບຳລຸງຜິວ",
+    "ເຄື່ອງສຳອາງ",
+    "ເສື້ອຜ້າແຟຊັ່ນ",
+    "ກະເປົາ & ອຸປະກອນ"
+  ],
+  "orders": [],
+  "settings": {
+    "storeName": "NY Beauty SHop",
+    "storePhone": "020 2803 9599",
+    "whatsappNumber": "8562028039599",
+    "facebookPageName": "NY Beauty SHop",
+    "facebookUrl": "https://www.facebook.com/share/1B59iN8jJG/?mibextid=wwXIfr",
+    "bcelAccountName": "NY BEAUTY SHOP (Phoutthasone Chittavoravong MS)",
+    "bcelAccountNumber": "010-12-00-01114167-001",
+    "bcelQrImage": "/bcel-qr.jpg",
+    "shippingRates": {
+      "Anusith": 0,
+      "Hal": 0,
+      "Mixay": 0
+    }
+  }
+}
